@@ -21,6 +21,15 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 ---
 
+### Internal Security Audit – Botium Toys (Training Exercise)
+
+**Context:** This exercise was part of the Google Cybersecurity training program. The scenario and initial risk assessment report were provided as part of the exercise.
+
+**My Contribution:** I completed the **Controls and Compliance Checklist** based on the scenario, evaluating security controls, identifying gaps, and providing professional recommendations to improve Botium Toys' security posture.
+
+- [Botium Toys – Internal Security Audit (Checklist)](audits/BotiumToys_Internal_Audit.md)
+
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
