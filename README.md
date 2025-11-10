@@ -37,6 +37,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Network Traffic Analysis Report (PDF)](analyze/Activity_Analyze_network_layer_communication.pdf)
 
+### Network Attack Analysis – Analyze Network Attacks (Training Exercise)
+
+**Context:** This exercise was part of the Cybersecurity training program. A TCP/HTTP network log was provided, and the task was to analyze web server traffic to identify potential attacks affecting availability.
+
+**My Contribution:** I analyzed the log, identified a SYN flood DoS attack from a specific IP, and documented how the attack impacts legitimate traffic. I explained the TCP three-way handshake, the effects of the attack on server resources, and how failed connections manifest in the logs. This exercise helped me develop skills in traffic analysis, incident reporting, and understanding denial-of-service attacks.
+
+- [Network Attack Analysis Report (PDF)](analyze/Cybersecurity-incident-report.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
