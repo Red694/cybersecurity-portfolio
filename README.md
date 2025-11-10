@@ -29,6 +29,13 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Botium Toys – Internal Security Audit (Checklist)](audits/BotiumToys_Internal_Audit.md)
 
+### Network Traffic Analysis – Analyze Network Layer Communication (Training Exercise)
+
+**Context:** This exercise was part of the Cybersecurity training program. A network traffic log was provided, and the task was to analyze DNS and ICMP traffic to identify connectivity issues.
+
+**My Contribution:** I completed the Network Traffic Analysis Report based on the provided logs, summarizing the problem, analyzing the data, and providing recommended next steps. This exercise helped me consolidate my understanding of network protocols, traffic analysis, and incident reporting.
+
+- [Network Traffic Analysis Report (PDF)](analyze/Activity_Analyze_network_layer_communication.pdf)
 
 ## Contact
 
