@@ -59,7 +59,7 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 **My Contribution:** I prepared a detailed security risk assessment report based on the provided scenario. I selected password policies, multi-factor authentication (MFA), and port filtering as the main hardening tools. I explained how enforcing password policies prevents sharing and use of default passwords, how MFA adds an extra layer of protection, and how port filtering reduces the network’s attack surface. This exercise helped me practice writing professional risk assessments and recommending practical network hardening measures.
 
-- [Security risk assessment report (PDF)](analyze/Security-risk-assessment-report.pdf)
+- [Security Risk Assessment Report (PDF)](analyze/Security-risk-assessment-report.pdf)
 
 ## Contact
 
