@@ -45,6 +45,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Network Attack Analysis Report (PDF)](analyze/Cybersecurity-incident-report.pdf)
 
+### Security Incident Report – Brute Force & Malware (Training Exercise)
+
+**Context:** This exercise was part of a cybersecurity training scenario. A website was compromised via a brute-force attack on the admin panel, leading to malware being delivered to visitors. The scenario, logs, and background information were provided as part of the exercise.
+
+**My Contribution:** I prepared a detailed incident report based on the provided scenario, documenting the sequence of events, identifying the key network protocol involved (HTTP), and recommending mitigation steps such as multi-factor authentication. This exercise helped me practice structuring professional incident reports, summarizing security incidents, and proposing effective remediation measures.
+
+- [Security Incident Report (PDF)](analyze/Security-incident-report.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
