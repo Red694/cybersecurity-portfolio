@@ -53,6 +53,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Security Incident Report (PDF)](analyze/Security-incident-report.pdf)
 
+### Network Hardening – Security Risk Assessment (Training Exercise)
+
+**Context:** This exercise was part of a cybersecurity training scenario. The organization had recently suffered a major data breach, and the task was to review the network, identify vulnerabilities, and recommend hardening measures to prevent future attacks. The scenario provided the vulnerabilities and background information.
+
+**My Contribution:** I prepared a detailed security risk assessment report based on the provided scenario. I selected password policies, multi-factor authentication (MFA), and port filtering as the main hardening tools. I explained how enforcing password policies prevents sharing and use of default passwords, how MFA adds an extra layer of protection, and how port filtering reduces the network’s attack surface. This exercise helped me practice writing professional risk assessments and recommending practical network hardening measures.
+
+- [Security risk assessment report (PDF)](analyze/Security-risk-assessment-report.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
