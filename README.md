@@ -61,7 +61,7 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Security Risk Assessment Report (PDF)](analyze/Security-risk-assessment-report.pdf)
 
-### File Permissions Management – Linux Security Exercise
+### File Permissions Management – Linux Security Exercise (Training Exercise)
 
 **Context:** This exercise was part of a cybersecurity training scenario. The task was to review and manage file and directory permissions in a Linux environment to ensure proper access control for sensitive files and directories. The scenario simulated a research team environment, where certain files were hidden or restricted to specific users.
 
