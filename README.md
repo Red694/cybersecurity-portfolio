@@ -61,6 +61,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Security Risk Assessment Report (PDF)](analyze/Security-risk-assessment-report.pdf)
 
+### File Permissions Management – Linux Security Exercise
+
+**Context:** This exercise was part of a cybersecurity training scenario. The task was to review and manage file and directory permissions in a Linux environment to ensure proper access control for sensitive files and directories. The scenario simulated a research team environment, where certain files were hidden or restricted to specific users.
+
+**My Contribution:** I inspected file and directory permissions using ls -la, interpreted 10-character permission strings, and modified permissions using chmod to comply with organizational security policies. This included adjusting permissions for regular files, hidden files, and directories, ensuring that only authorized users could read or write specific files, and removing write access for unauthorized users.
+
+- [File permissions in Linux (PDF)](analyze/File_permissions_in_Linux.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
