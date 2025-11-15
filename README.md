@@ -69,6 +69,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [File permissions in Linux (PDF)](analyze/File_permissions_in_Linux.pdf)
 
+### SQL Query Filtering – Log and Employee Data Analysis (Training Exercise)
+
+**Context:** This exercise focused on utilizing SQL filtering techniques to conduct security investigations on a simulated corporate database containing employee information and login attempt logs.
+
+**My Contribution:** I developed SQL queries using WHERE, AND, OR, NOT, and LIKE clauses to perform targeted data retrieval. I filtered for specific security-relevant events, including failed after-hours logins, activity on high-risk dates, and employee data based on department and office location patterns. This exercise validated my ability to use conditional logic in SQL for effective security auditing and incident investigation.
+
+- [Apply filters to SQL queries (PDF)](analyze/Apply_filters_to_SQL_queries.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
