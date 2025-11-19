@@ -77,6 +77,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Apply filters to SQL queries (PDF)](analyze/Apply_filters_to_SQL_queries.pdf)
 
+### Security Risk Assessment – Vulnerability & Impact Analysis (Training Exercise)
+
+**Context:** This exercise focused on conducting a risk assessment for a commercial bank scenario, evaluating vulnerabilities to prioritize security resources in alignment with the NIST Cybersecurity Framework (CSF).
+
+**My Contribution:** I analyzed the organization's operational environment to evaluate threats ranging from social engineering to physical security. I populated a risk register by determining likelihood and severity scores for each vulnerability, effectively prioritizing high-impact risks for immediate mitigation.
+
+- [Risk Register (PDF)](Assets_Threats_Vulnerabilities/Risk-register.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
