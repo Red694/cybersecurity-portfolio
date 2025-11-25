@@ -85,6 +85,14 @@ I am a detail-oriented IT professional transitioning into cybersecurity, with ha
 
 - [Risk Register (PDF)](Assets_Threats_Vulnerabilities/Risk-register.pdf)
 
+### Data Leak Incident Analysis – Implementing NIST Least Privilege (AC-6)
+
+**Context:** This activity focused on diagnosing and mitigating a critical data leak incident where highly sensitive customer analytics and unannounced product details were exposed publicly by a sales representative due to excessive access permissions. The goal was to analyze the failure using the core principles of access control.
+
+**My Contribution:** I analyzed the incident to identify multiple contributing factors, focusing specifically on the violation of the **Least Privilege Principle (NIST SP 800-53: AC-6)**. I formulated technical recommendations—such as enforcing granular file sharing, segmenting data, and implementing time-based access revocation—to demonstrate how security controls can be improved to prevent human error.
+
+- [Data Leak Incident Analysis Worksheet (PDF)](Assets_Threats_Vulnerabilities/Activity-Template_-Data-leak-worksheet.pdf)
+
 ## Contact
 
 - GitHub: [https://github.com/Red694](https://github.com/Red694)  
